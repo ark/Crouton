@@ -38,10 +38,6 @@ local.properties
 .idea
 *.iml
 
-# Gradle files
-.gradle
-build
-
 # OSX files
 .DS_Store
 
